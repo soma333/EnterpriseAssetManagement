@@ -17,6 +17,7 @@ public class Address {
     private String    state;
     private String    country;
     private String    pinCode;
+private String    pin;
 
     /**
      * @return the addressLine1
